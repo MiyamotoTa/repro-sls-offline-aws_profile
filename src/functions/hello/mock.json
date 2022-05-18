@@ -1,0 +1,6 @@
+{
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": "{\"phrase\": \"How do I use AWS comprehend?\"}"
+}
